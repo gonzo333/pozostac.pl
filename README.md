@@ -1,0 +1,1 @@
+# pozostac.pl
